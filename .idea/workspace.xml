@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ef78b9-c1ef-43a7-90fb-fcd8670100f6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
+    <list default="true" id="69ef78b9-c1ef-43a7-90fb-fcd8670100f6" name="Changes" comment="Fixed navigation html file names">
+      <change beforePath="$PROJECT_DIR$/speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/chua.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sorkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +41,16 @@
       <option name="presentableId" value="Default" />
       <updated>1668471830183</updated>
       <workItem from="1668471831369" duration="17000" />
-      <workItem from="1668471890294" duration="1571000" />
+      <workItem from="1668471890294" duration="1776000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed navigation html file names">
+      <created>1668473534645</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668473534645</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed navigation html file names" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed navigation html file names" />
   </component>
 </project>
