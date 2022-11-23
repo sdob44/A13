@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69ef78b9-c1ef-43a7-90fb-fcd8670100f6" name="Changes" comment="Fixed navigation html file names">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Thumbs.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/brancaccio75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/chua75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/eire75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sampson75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sorkin75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/town_hall_logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tynan75.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/sampson.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/brancaccio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/chua.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/speakers/sorkin.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/slicknav.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/speaker.css" beforeDir="false" />
+    <list default="true" id="69ef78b9-c1ef-43a7-90fb-fcd8670100f6" name="Changes" comment="Fixed file name">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +51,8 @@
       <workItem from="1669073138816" duration="2911000" />
       <workItem from="1669076417999" duration="789000" />
       <workItem from="1669110245516" duration="243000" />
-      <workItem from="1669151239841" duration="2194000" />
+      <workItem from="1669151239841" duration="2511000" />
+      <workItem from="1669218683159" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed navigation html file names">
       <created>1668473534645</created>
@@ -78,7 +61,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668473534645</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed file name">
+      <created>1669153479519</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669153479519</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed file name">
+      <created>1669153632348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669153632348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +94,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Fixed navigation html file names" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed navigation html file names" />
+    <MESSAGE value="Fixed file name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed file name" />
   </component>
 </project>
